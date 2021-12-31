@@ -1,0 +1,16 @@
+# === R ========
+*.Rproj.user*
+*.Rdata*
+*.Rhistory*
+*.knit*
+*.utf8*
+
+# === MacOS ========
+*.DS_Store
+*~$*
+*ffs_gui
+
+*jar
+*ScrapedFiles*
+*html*
+*miscs*
